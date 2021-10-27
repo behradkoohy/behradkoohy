@@ -13,7 +13,7 @@ I'm particularly interested in machine learning, game theory and mechanism desig
 
 <!-- Actual text -->
 
-You can find me on [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/behrad-koohy-58ab04169/).
+You can find me on [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/behrad-koohy-58ab04169/). :)
 
 <!-- Icons -->
 
