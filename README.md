@@ -11,7 +11,16 @@ I'm particularly interested in machine learning, game theory and mechanism desig
 - Intention aware traffic management; Connected and Autonomous Vehicles (CAVs), and Electric Vehicles (EVs) are likely to become commonplace in the next decade, and management of resources such as road networks and charging locations could vastly improve the experience of road users whilst yielding particularly interesting technology.
 - [wessex.live](https://wessex.live); I represent the University of Southampton Hockey Club and I have setup and maintained wessex.live, a customised link shortener which allows our players to navigate the needlessly complex websites used by Hampshire Hockey Association and BUCs.
 
+<!-- Actual text -->
 
+You can find me on [![LinkedIn][3.2]][3].
+
+<!-- Icons -->
+
+<!-- [1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding) -->
+[2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
+
+[2]: https://www.linkedin.com/in/behrad-koohy-58ab04169/
 
 
 
